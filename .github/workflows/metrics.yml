@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_CI }}
+          token: ${{ secrets.Metrics_CI }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
