@@ -2,5 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatevosyanDavid&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+[![MatevosyanDavid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatevosyanDavid)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](./github-metrics.svg)
